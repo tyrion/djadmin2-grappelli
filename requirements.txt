@@ -1,0 +1,3 @@
+Django==1.6
+-e git+https://github.com/sehmaschine/django-grappelli.git#egg=django-grappelli
+-e git+https://github.com/pydanny/django-admin2.git#egg=django-admin2
